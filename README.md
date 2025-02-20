@@ -5,8 +5,8 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/LukeCesar7">
-  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuquianCésar&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="160em" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuquianCésar&layout=compact&langs_count=8&theme=radical">
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LukeCesar7&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="160em" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukeCesar7&layout=compact&langs_count=8&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
