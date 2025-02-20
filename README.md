@@ -4,9 +4,9 @@
 💻 - Estou Estudando Java, TypeScript, HTML, CSS, C++, Java e SQL
 
 <div style="display: inline_block"><br>
-  <a href="https://github.com/GabrielBarthel">
-  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielBarthel&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="160em" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielBarthel&layout=compact&langs_count=8&theme=radical">
+  <a href="https://github.com/LukeCesar7">
+  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LuquianCésar&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="160em" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LuquianCésar&layout=compact&langs_count=8&theme=radical">
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
 ##
 
 <div style="display: inline_block"> 
-  <a href = "mailto:gabrielbarthel81@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/thebarthel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-barthel-9ba102208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luquian.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/luqces_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luquian-c%C3%A9sar-2890ab270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
