@@ -67,8 +67,8 @@ Automatic generation of PDF lists with `jsPDF`. In production at [diretoriodirei
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqces/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:luquian.santos@outlook.com)
 
----
 
-*Always open to new opportunities and collaborations. Let's build something cool?* 🤝
+
+**Always open to new opportunities and collaborations. Let's build something cool?** 🤝
 
 
