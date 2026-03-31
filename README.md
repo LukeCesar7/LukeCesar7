@@ -1,32 +1,34 @@
-## Olá, Me chamo Luquian César 👋
+# Olá, eu sou o Luquian César 👋
 
-🔭 - Procurando uma oportunidade para ingressar no mercado como DEV <br/>
-💻 - Estou Estudando Java, TypeScript, HTML, CSS, C++, Java e SQL
+[cite_start]Sou um **Desenvolvedor Backend** focado em construir sistemas robustos, escaláveis e eficientes[cite: 1, 5]. Atualmente, dedico-me ao ecossistema Java e Node.js, com forte interesse em arquitetura de nuvem e integração de Inteligência Artificial.
 
-<div style="display: inline_block"><br>
-  <a href="https://github.com/LukeCesar7">
-  <img height="160em" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LukeCesar7&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="160em" alt="Most used languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LukeCesar7&layout=compact&langs_count=8&theme=radical">
-</div>
+### 🚀 Sobre mim
+- [cite_start]🎓 Cursando Análise e Desenvolvimento de Sistemas na UNIFG (Conclusão em 2025)[cite: 47, 48].
+- [cite_start]☁️ **AWS Certified Cloud Practitioner**[cite: 6, 12].
+- [cite_start]🛠️ Experiência prática com metodologias ágeis (Scrum/Kanban) e práticas de DevOps[cite: 6, 18, 32].
+- 💡 Desenvolvendo o **AILA (AI Legal Assistant)**, um sistema de RAG local para educação jurídica utilizando NestJS e modelos Gemma.
 
-<div style="display: inline_block"><br>
- <!-- <img align="center" alt="barthel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="barthel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- <!-- <img align="center" alt="barthel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> --->
-  <!--<img align="center" alt="barthel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="barthel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="barthel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
- 
-<br>
-<div align="center">
+### 🛠️ Tecnologias e Ferramentas
+- **Linguagens & Frameworks:** Java (Spring Boot), JavaScript/TypeScript (Node.js, NestJS, Express).
+- [cite_start]**Bancos de Dados:** PostgreSQL e MySQL[cite: 14].
+- [cite_start]**Cloud & Infra:** AWS (EC2, Cloud Certified), Docker[cite: 12, 30].
+- [cite_start]**Qualidade & Ferramentas:** TDD, JUnit, Mockito, Git[cite: 16].
 
-</div>
+### 📂 Projetos em Destaque
 
-##
+#### [AILA - AI Legal Assistant](https://github.com/LukeCesar7/AILA)
+Sistema de assistência jurídica baseado em IA, utilizando arquitetura NestJS para processamento de documentos legais via RAG (Retrieval-Augmented Generation).
 
-<div style="display: inline_block"> 
-  <a href = "mailto:luquian.santos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/luqces_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luquian-c%C3%A9sar-2890ab270/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+#### [Sistema de Presença Acadêmica](https://github.com/LukeCesar7/Diretorio-Direito)
+Aplicação web em produção utilizada pelo Diretório Acadêmico da UNIFG, com reconhecimento da OAB-PE. [cite_start]O sistema automatiza o registro de presença e gera certificados em PDF, eliminando processos manuais[cite: 34, 39, 43, 45].
+
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LukeCesar7&show_icons=true&theme=radical)
+
+### 📫 Contato
+- [cite_start]**LinkedIn:** [linkedin.com/in/luqces](https://www.linkedin.com/in/luqces/) [cite: 2]
+- [cite_start]**E-mail:** [luquian.santos@outlook.com](mailto:luquian.santos@outlook.com) [cite: 3]
+- [cite_start]**Localização:** Recife/Jaboatão dos Guararapes, PE [cite: 2, 28]
+
+---
+*“Sempre otimizando para performance, seja no código ou no hardware.”*
