@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,mysql,idea,java,spring,js,nodejs,react,express,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,angular)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=apple,angular)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
