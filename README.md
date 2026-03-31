@@ -1,6 +1,6 @@
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,idea,java,spring,js,nodejs,react,express,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,mysql,idea,java,spring,js,nodejs,react,express,notion)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,angular)](https://skillicons.dev)
