@@ -4,7 +4,6 @@
 
 Backend developer in constant growth — passionate about clean code, good architectures, and learning new things. Currently focused on Java and Spring Boot, with experience in the AWS environment.
 
----
 
 ## 🧰 Tech Stack
 
@@ -29,7 +28,7 @@ Backend developer in constant growth — passionate about clean code, good archi
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-%23333?style=flat)
 
----
+
 
 ## 🚀 Experience
 
@@ -42,7 +41,7 @@ Developed solutions with Java and maintained the entity's digital infrastructure
 **IT Technician @ Engetronic** *(Dec 2022 – Jul 2023)*
 Hardware/network maintenance and development of micro-applications using PowerApps.
 
----
+
 
 ## 📌 Featured Project
 
@@ -55,13 +54,13 @@ Eliminated certification fraud and replaced manual paper processes.
 Automatic generation of PDF lists with `jsPDF`. In production at [diretoriodireito.vercel.app](https://diretorio-direito.vercel.app/).
 `HTML` `CSS` `JavaScript` `jsPDF` `Vercel`
 
----
+
 
 - 📚 Technologist in Systems Analysis and Development — UNIFG *(2023 – 2025)*
 
 - ☁️ AWS Certified Cloud Practitioner
 
----
+
 
 ## 📬 Contact
 
