@@ -8,23 +8,23 @@ Backend developer in constant growth — passionate about clean code, good archi
 
 **Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 **Cloud & DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=balck)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 **Database**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
 **Quality**
 
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=black)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-%23333?style=flat)
 
 ---
@@ -50,7 +50,7 @@ Web system for electronic registration of attendance at academic events.
 
 Eliminated certification fraud and replaced manual paper processes.
 
-Automatic generation of PDF lists with `jsPDF`. In production at [diretoriodireito.vercel.app](https://diretoriodireito.vercel.app).
+Automatic generation of PDF lists with `jsPDF`. In production at [diretoriodireito.vercel.app](https://diretorio-direito.vercel.app/).
 `HTML` `CSS` `JavaScript` `jsPDF` `Vercel`
 
 ---
