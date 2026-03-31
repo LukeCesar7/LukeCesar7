@@ -1,6 +1,6 @@
-# Olá, eu sou o Luquian! 👋
+# Hi, I'm Luquian! 👋
 
-Desenvolvedor Backend em construção constante — apaixonado por código limpo, boas arquiteturas e aprender coisas novas. Atualmente focado em Java e Spring Boot, com passagem pelo universo AWS.
+Backend developer in constant growth — passionate about clean code, good architectures, and learning new things. Currently focused on Java and Spring Boot, with experience in the AWS environment.
 
 ---
 
@@ -17,57 +17,57 @@ Desenvolvedor Backend em construção constante — apaixonado por código limpo
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
-**Banco de Dados**
+**Database**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)
 
-**Qualidade**
+**Quality**
 
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![TDD](https://img.shields.io/badge/TDD-%23333?style=flat)
 
 ---
 
-## 🚀 Experiência
+## 🚀 Experience
 
-**Estagiário Backend @ Compass UOL** *(Set 2024 – Fev 2025)*
-Deploy de aplicações Java/Spring Boot em EC2 na AWS, mensageria e trabalho em times ágeis com Scrum e Kanban.
+**Backend Intern @ Compass UOL** *(Sep 2024 – Feb 2025)*
+Deployment of Java/Spring Boot applications on EC2 in AWS, messaging, and work in agile teams using Scrum and Kanban.
 
-**Desenvolvedor de Sistemas @ Diretório Acadêmico de Direito – UNIFG** *(Voluntário)*
-Desenvolvi soluções com Java e mantive a infraestrutura digital da entidade — com reconhecimento formal da OAB-PE.
+**Systems Developer @ Academic Law Directory – UNIFG** *(Volunteer)*
+Developed solutions with Java and maintained the entity's digital infrastructure — with formal recognition from the OAB-PE (Brazilian Bar Association - Pernambuco chapter).
 
-**Técnico de TI @ Engetronic** *(Dez 2022 – Jul 2023)*
-Manutenção de hardware/rede e desenvolvimento de microaplicações via PowerApps.
+**IT Technician @ Engetronic** *(Dec 2022 – Jul 2023)*
+Hardware/network maintenance and development of micro-applications using PowerApps.
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Featured Project
 
-### [Sistema de Presença – Diretório de Direito UNIFG](https://github.com/LukeCesar7/Diretorio Direito)
+### [Attendance System – UNIFG Law Directory](https://github.com/LukeCesar7/DiretorioDireito)
 
-Sistema web para registro eletrônico de presença em eventos acadêmicos.
-Eliminou fraudes de certificação e substituiu processos manuais em papel.
-Geração automática de listas em PDF com `jsPDF`. Em produção no [diretoriodireito.vercel.app](https://diretoriodireito.vercel.app).
+Web system for electronic registration of attendance at academic events.
 
+Eliminated certification fraud and replaced manual paper processes.
+
+Automatic generation of PDF lists with `jsPDF`. In production at [diretoriodireito.vercel.app](https://diretoriodireito.vercel.app).
 `HTML` `CSS` `JavaScript` `jsPDF` `Vercel`
 
 ---
 
-## 🎓 Formação & Certificações
+- 📚 Technologist in Systems Analysis and Development — UNIFG *(2023 – 2025)*
 
-- 📚 Tecnólogo em Análise e Desenvolvimento de Sistemas — UNIFG *(2023 – 2025)*
 - ☁️ AWS Certified Cloud Practitioner
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luqces/)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:luquian.santos@outlook.com)
 
 ---
 
-*Sempre aberto a novas oportunidades e colaborações. Bora construir algo legal?* 🤝
+*Always open to new opportunities and collaborations. Let's build something cool?* 🤝
 
 
