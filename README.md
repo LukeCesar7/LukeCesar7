@@ -1,9 +1,9 @@
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,postgresql,idea,java,spring,js,nodejs,react,express,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,postgresql,idea,java,spring,js,nodejs,react,express,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=swift,angular)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=swift,angular,mondodb,myslq)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
