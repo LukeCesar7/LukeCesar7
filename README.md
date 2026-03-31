@@ -44,7 +44,7 @@ Hardware/network maintenance and development of micro-applications using PowerAp
 
 ## 📌 Featured Project
 
-### [Attendance System – UNIFG Law Directory](https://github.com/LukeCesar7/DiretorioDireito)
+### [Attendance System – UNIFG Law Directory](https://github.com/LukeCesar7/Diretorio_Direito)
 
 Web system for electronic registration of attendance at academic events.
 
