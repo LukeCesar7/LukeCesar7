@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=github,git,postgresql,idea,java,spring,js,nodejs,react,express,notion)](https://skillicons.dev)
