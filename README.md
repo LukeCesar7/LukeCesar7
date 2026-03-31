@@ -31,6 +31,6 @@ I also delve into personal thoughts and research on AI, quantum computing and ot
 > [!IMPORTANT]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=120&section=footer" alt="footer"/>
 
 
