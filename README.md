@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
+
 # Hi, I'm Luquian! 👋
 
 Backend developer in constant growth — passionate about clean code, good architectures, and learning new things. Currently focused on Java and Spring Boot, with experience in the AWS environment.
